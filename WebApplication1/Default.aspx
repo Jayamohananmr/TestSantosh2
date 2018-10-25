@@ -12,7 +12,7 @@
         <div class="col-md-4">
             <h2>Getting Started</h2>
             <p>
-                Hello world test  again  </p>
+                Hello world test  again 22 </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
